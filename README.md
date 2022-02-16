@@ -23,7 +23,7 @@ La plateforme devra permettre que :
 -  Une escale a une heure d’arrivée et une heure de départ.
 -  Chaque aéroport dessert une ou plusieurs villes.
 
-​## A rendre
+### A rendre
 
 -  Un diagramme de cas d'utilisation
 -  Un diagramme de classe
